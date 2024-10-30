@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mykel
-- 👀 Frontend Dev., Python, PHP
+- 👀 I'm interested in Frontend Dev., Python
 - 🌱 I’m currently learning advanced frontend techniques
 - 💞️ I’m looking to collaborate on a web project with great UI/UX
 - 📫 You can reach me via links to my social profile 
