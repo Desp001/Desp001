@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mykel
-- 👀 Frontend design, JavaScript, Python, and PHP
+- 👀 Frontend Dev., Python, PHP
 - 🌱 I’m currently learning advanced frontend techniques
-- 💞️ I’m looking to collaborate on innovative web projects with great UI/UX
+- 💞️ I’m looking to collaborate on an innovative web project with great UI/UX
 - 📫 You can reach me via links to my social profile 
 - 😄 He/Him
 - ⚡ I feel happy when I get things done!
