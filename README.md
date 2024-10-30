@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mykel
-- 👀 I'm interested in Software Development(Back-end) 
+- 👀 I'm interested in Software Development (Back-end) 
 - 🌱 I’m currently learning JavaScript front-end libraries
 - 💞️ I’m looking to collaborate on a web project with great UI/UX
 - 📫 You can reach me via links to my social profile 
