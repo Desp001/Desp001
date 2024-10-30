@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a web project with great UI/UX
 - 📫 You can reach me via links to my social profile 
 - 😄 He/Him
-- ⚡ I feel happy when I get things done.
+- ⚡ It feels happy getting things done !
 
 <!---
 Desp001/Desp001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
